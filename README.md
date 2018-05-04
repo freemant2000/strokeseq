@@ -1,2 +1,0 @@
-# strokeseq
-Chinese stroke sequence
